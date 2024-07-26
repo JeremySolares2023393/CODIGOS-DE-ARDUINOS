@@ -1,3 +1,15 @@
+/*
+   Fundacion Kinal
+   Centro educativo tecnico laboral Kinal
+   Quinto perito
+   Quinto electronica
+   Codigo Tecnico: EB5AV
+   Curso: Taller de electronica digital y reparacion de computadoras I
+   Proyecto: pantalla oled
+   Dev: Jeremy Solares 2023393
+   Fecha: 26 de julio de 2024   
+*/
+
 #include <Wire.h>      
 #include <Adafruit_GFX.h>   
 #include <Adafruit_SSD1306.h>   
