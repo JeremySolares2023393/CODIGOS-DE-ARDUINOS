@@ -2,8 +2,8 @@
 #include <LedControl.h>   //libreria que me permite usar el controlador led max7219
 
 //Directivas de preprocesador
-#define dataPin0   4   //pin 12 conectado al pin de datos del max7219.
-#define dataLoad0  3   //pin 10 conectado al pin de carga del max7219.
+#define dataDIN0   4   //pin 12 conectado al pin de datos del max7219.
+#define dataCS0  3   //pin 10 conectado al pin de carga del max7219.
 #define dataClock0 2   //pin 11 conectado al pin de clock del max7219.
 
 
